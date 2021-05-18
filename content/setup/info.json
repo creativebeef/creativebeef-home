@@ -4,7 +4,7 @@
   "siteicon": "/images/uploads/web.svg",
   "showmenu": true,
   "emailsignup": true,
-  "altlayout": true,
+  "altlayout": false,
   "menu": [],
   "linkcolor": "#000000"
 }
